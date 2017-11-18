@@ -16,6 +16,12 @@ Den Großteil der ersten Stunden haben wir mit Tutorials bei Code.org verbracht.
 
 Auch haben wir ein öffentliches Projekt auf Code versucht, uns jedoch etwas anderes davon erhofft, als was es war. In diesem Projekt galt es, [FlappyBird](https://studio.code.org/flappy/9) zu programmieren. Letztendlich hat man nur bereits vorprogrammierte Blöcke eingesetzt und am Ende ein Code aus zehn Bausteinen gehabt.
 
+![FlappyBird](https://github.com/lirebanause/lirebanause/blob/master/images/FlappyBirdTutorial.PNG)
+
+Nach längerer Zeit haben wir uns dann an unser eigenes Projekt gewagt. Wir wollten eine Spielesammlung programmieren. Diese sollte verschiedene Minispiele beinhalten, darunter auch ein Quiz.
+Dieses Quiz werde ich nun alleine programmieren.
+
+Das war der stark komprimierte Verlauf unserer Zusammenarbeit. Ich sehe nicht ein, warum ich dazu so viel  schreiben sollte. Vielleicht hat Lennard ja noch was geschrieben. Wenn ja, bedenken sie: Es gibt immer mehrere Perspektiven.
 
 
 #### 1. Stunde
