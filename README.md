@@ -9,6 +9,11 @@ Ich bin mir nicht ganz sicher, wie ich diesen Blog nun aufbauen soll, nachdem ic
 
 ### Die Stunden mit Lennard
 
+Ich hatte schon recht viel zu der Zeit geschrieben. Das ist jetzt alles weg, weil Lennard anscheinend das Dokument gelöscht hat. Da ich aber extrem wenig Lust habe, alles wieder runter zu rattern, werde ich das zusammenfassen, damit sie zumindest wissen, dass ich nicht nur Schwachsinn während der Stunde gemacht habe.
+Den Großteil der ersten Stunden haben wir mit Tutorials bei Code.org verbracht. Die Grundlagen für das Programmieren mit Code. 
+
+!{TutorialCode}(https://github.com/lakgiter/Informatik-Unterricht/blob/master/images/image%201.PNG)
+
 
 
 #### 1. Stunde
