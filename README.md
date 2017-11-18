@@ -2,6 +2,7 @@
 
 ## Inhaltsverzeichnis
 
+ ### "Vorwort"
  ### Die Stunden mit Lennard
  ### Freitag
  ### Samstag
@@ -9,7 +10,7 @@
 
 # Stundenblog
 
-### Vorwort
+### "Vorwort"
 
 Ich bin mir nicht ganz sicher, wie ich diesen Blog nun aufbauen soll, nachdem ich in drei verschiedenen Gruppen gearbeitet habe. Bevor ich ja überhaupt mit Lennard gezwungenermaßen eine Gruppen machen musste, hatte ich ja schon ein halbes Dutzend Stunden mit Finn und Till verbracht. Dann haben sie, entgegen ihrer früheren Bestätigung, dass wir zu dritt arbeiten könnten, wieder gesagt, dass es nicht gehen würde. So musste ich dann mit einer Person der 5% der Klasse arbeiten, mit den ich schlicht weg nicht klarkommen würde. Aber wir haben es versucht, länger durchgehalten als gedacht. Aber das Unterfangen war von Anfang an zum Scheiter verurteilt. Lennard und ich sind nicht weiter gekommen, haben einfach zusammen nicht funktioniert. Und, dass dieser gesamte Kurs für mich so den Bach runtergegangen ist, regt mich wirklich auf. Sonst würde ich nicht dieses unorthodoxe "Vorwort" schreiben. Der einzige Trost ist, dass ich es wahrscheinlich nicht ins Abitur einbringen werden muss. Trotzdem hätte ich gerne eine gute Arbeit abgegeben. Sicher liegt ein großer Teil der Verantwortung für, wie es gelaufen ist, bei mir. Aber nicht die ganze.
 
