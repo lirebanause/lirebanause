@@ -28,4 +28,15 @@ Das war der stark komprimierte Verlauf unserer Zusammenarbeit. Ich sehe nicht ei
 
 Mir ist klar, dass ich in der verbleibenden Zeit niemals mehr ein komplexes Programm erstellen kann. Dafür ist schlicht weg nicht genug Zeit. Ich habe jetzt noch genau 3 Tage. Dementsprechend habe ich beschlossen, eine Quizapp zu erstellen. Der große Vorteil einer Quizapp ist, dass es extrem simpel zu programmieren ist. Eigentlicht muss man als Grundkonstrukt nur eine Menge an Knöpfen und Screens erstellen und sie verlinken. Das ist simpel, jedoch auch extrem aufwändig. Auch ist es schwer, generelle Vorgänge in Funktionen zusammenzufassen, um Zeit zu sparen, weil die Funktionen nur mit gleichen generellen Vorgängen arbeiten können. Die Buttons und Screens und Verfärbungsvorgänge und ähnliches sind immer unterschiedlich, weil die Antwort natürlich nicht immer die gleiche Position hat.
 
+So muss ich also jede Frage und jede Aktion spezifisch programmieren. Außerdem habe ich das problem, dass ich allein durch Zeitmangel einen sehr begrenzten Vorrat an Munition habe, was Inahlt, also Fragen, angeht.
+
+#### Sa, den 18. November
+
+Ich sitze hier nun seit Stunden, und schreibe abwechselnd im Blog und programmiere Fragen. Ich habe beschlossen, die Themenfelder als Module aufzubauen. Jedes Themenfeld hat 3 Fragen. Wenn diese besatanden sind, ist das Modul abgeschlossen, es geht zum Start und man beginnte ein neues. Auch habe ich Sounds eingebaut und außerdem passende Hintergründe für die Fragen, die dem ganzen ein wenig die Eintönigkeit nehmen sollen, aber das ist wohl eher mehr Schein als Sein. Ich habe vor, vier Module zu machen, wenn ich das noch schaffe. Morgen bin ich den größten Teil des Tages in Hamburg bei einem Vorstellungsgespräch. Da werde ich also kaum mehr Zeit haben. Das muss heute gemacht werden. Wow... 2 Tage für ein 6 Wochen Projekt. Das ganze kann mir wirklich den Buckel runterrutschen.
+
+Ich bin jetzt mit der App so fertig, wie sie sein soll. Überwältigend ist es nicht gerade. Aber mehr steht auch in diesem Rahmen nicht in meiner Macht. Ich habe drei nette Module gemacht, alles "verkabelt", nette Fragen überlegt und alles ein wenig hübsch gemacht. Außerdem habe ich programmiert, dass, nachdem man ein Modul abgeschlossen hat, im Startmenü ein Haken hinter diesem Modul erscheint. So kann man vielleicht ein wenig in Richtung Kampagne denken oder so, wenn man das Quiz "durchgespielt" hat.
+
+
+Dieser Stundenblog ist sehr viel kürzer, als er im Normalfall sein sollte. Das liegt allerdings daran, dass ich auch sehr viel weniger Stunden habe, als im Normalfall, über die ich schreiben könnte,
+
 
