@@ -41,7 +41,11 @@ So muss ich also jede Frage und jede Aktion spezifisch programmieren. Außerdem 
 
 #### Sa, den 18. November
 
-Ich sitze hier nun seit Stunden, und schreibe abwechselnd im Blog und programmiere Fragen. Ich habe beschlossen, die Themenfelder als Module aufzubauen. Jedes Themenfeld hat 3 Fragen. Wenn diese besatanden sind, ist das Modul abgeschlossen, es geht zum Start und man beginnte ein neues. Auch habe ich Sounds eingebaut und außerdem passende Hintergründe für die Fragen, die dem ganzen ein wenig die Eintönigkeit nehmen sollen, aber das ist wohl eher mehr Schein als Sein. Ich habe vor, vier Module zu machen, wenn ich das noch schaffe. Morgen bin ich den größten Teil des Tages in Hamburg bei einem Vorstellungsgespräch. Da werde ich also kaum mehr Zeit haben. Das muss heute gemacht werden. Wow... 2 Tage für ein 6 Wochen Projekt. Das ganze kann mir wirklich den Buckel runterrutschen.
+Ich sitze hier nun seit Stunden, und schreibe abwechselnd im Blog und programmiere Fragen. Ich habe beschlossen, die Themenfelder als Module aufzubauen. Jedes Themenfeld hat 3 Fragen. Wenn diese besatanden sind, ist das Modul abgeschlossen, es geht zum Start und man beginnte ein neues. Auch habe ich Sounds eingebaut und außerdem passende Hintergründe für die Fragen, die dem ganzen ein wenig die Eintönigkeit nehmen sollen, aber das ist wohl eher mehr Schein als Sein. Ich habe vor, vier Module zu machen, wenn ich das noch schaffe.
+
+![QuizApp](https://github.com/lirebanause/lirebanause/blob/master/images/QuizApp.png)
+
+Morgen bin ich den größten Teil des Tages in Hamburg bei einem Vorstellungsgespräch. Da werde ich also kaum mehr Zeit haben. Das muss heute gemacht werden. Wow... 2 Tage für ein 6 Wochen Projekt. Das ganze kann mir wirklich den Buckel runterrutschen.
 
 Ich bin jetzt mit der App so fertig, wie sie sein soll. Überwältigend ist es nicht gerade. Aber mehr steht auch in diesem Rahmen nicht in meiner Macht. Ich habe drei nette Module gemacht, alles "verkabelt", nette Fragen überlegt und alles ein wenig hübsch gemacht. Außerdem habe ich programmiert, dass, nachdem man ein Modul abgeschlossen hat, im Startmenü ein Haken hinter diesem Modul erscheint. So kann man vielleicht ein wenig in Richtung Kampagne denken oder so, wenn man das Quiz "durchgespielt" hat.
 
