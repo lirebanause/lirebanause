@@ -1,10 +1,10 @@
 # lirebanause
 
-*## Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
- *Die Stunden mit Lennard
- *Freitag
- *Samstag
+ ### Die Stunden mit Lennard
+ ### Freitag
+ ### Samstag
 
 
 # Stundenblog
@@ -45,6 +45,9 @@ Ich sitze hier nun seit Stunden, und schreibe abwechselnd im Blog und programmie
 Ich bin jetzt mit der App so fertig, wie sie sein soll. Überwältigend ist es nicht gerade. Aber mehr steht auch in diesem Rahmen nicht in meiner Macht. Ich habe drei nette Module gemacht, alles "verkabelt", nette Fragen überlegt und alles ein wenig hübsch gemacht. Außerdem habe ich programmiert, dass, nachdem man ein Modul abgeschlossen hat, im Startmenü ein Haken hinter diesem Modul erscheint. So kann man vielleicht ein wenig in Richtung Kampagne denken oder so, wenn man das Quiz "durchgespielt" hat.
 
 
-Dieser Stundenblog ist sehr viel kürzer, als er im Normalfall sein sollte. Das liegt allerdings daran, dass ich auch sehr viel weniger Stunden habe, als im Normalfall, über die ich schreiben könnte,
+Dieser Stundenblog ist sehr viel kürzer, als er im Normalfall sein sollte. Das liegt allerdings daran, dass ich auch sehr viel weniger Stunden habe, als im Normalfall, über die ich schreiben könnte.
+Ich werde gerade von dem Gedanken gefangen gehalten, dass ich hier eh nichts mehr retten kann. Also ist es das.
+
+Viel Spaß mit diesem Vorzeigeprojekt.
 
 
