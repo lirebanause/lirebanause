@@ -14,6 +14,8 @@ Den Großteil der ersten Stunden haben wir mit Tutorials bei Code.org verbracht.
 
 ![TutorialCode](https://github.com/lakgiter/Informatik-Unterricht/blob/master/images/image%201.PNG)
 
+Auch haben wir ein öffentliches Projekt auf Code versucht, uns jedoch etwas anderes davon erhofft, als was es war. In diesem Projekt galt es, [FlappyBird](https://studio.code.org/flappy/9) zu programmieren. Letztendlich hat man nur bereits vorprogrammierte Blöcke eingesetzt und am Ende ein Code aus zehn Bausteinen gehabt.
+
 
 
 #### 1. Stunde
